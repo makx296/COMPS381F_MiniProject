@@ -1,10 +1,10 @@
 .bodyContainer{
-    margin: 100px auto;
-    width: 300px;
-    font-family: Helvetica;
-    padding: 25px;
-    background-color: #FBFBFB;
-    border-radius: 25px;
+    margin: 150px auto;
+    width: 600px;
+    font-family: Arial;
+    padding: 70px;
+    background-color: #aaebf9;
+    border-radius: 50px;
 }
 
 #input_password, #input_username{
@@ -25,7 +25,7 @@
 }
 
 #button_submit:hover, #button_register:hover{
-    background-color: deepskyblue;
+    background-color:  deepskyblue;
 }
 
 .textInputContainer{
@@ -37,6 +37,9 @@
     float: left;
     margin-top: 5px;
     font-size: 18px;
+}
+.headerContainer h1{
+    text-align: center;
 }
 .headerContainer h1{
     text-align: center;
